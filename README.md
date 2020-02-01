@@ -13,3 +13,6 @@ https://www.zabbix.com/events/zabbix_summit_2019
 
 Live from Zabbix 
 https://www.youtube.com/user/ZabbixSIA
+
+Link on Zabbix wiki about synology
+https://zabbix.org/wiki/InstallOnSynology#Install_the_spk
