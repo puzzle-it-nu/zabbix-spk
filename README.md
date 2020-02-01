@@ -13,4 +13,3 @@ https://www.zabbix.com/events/zabbix_summit_2019
 
 Live from Zabbix 
 https://www.youtube.com/user/ZabbixSIA
-
