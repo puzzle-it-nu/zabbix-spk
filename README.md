@@ -7,11 +7,14 @@ Package is build to run only one Zabbix Server OR one Zabbix Proxy, but not Zabb
 
 Please ask in case your package is not available.
 
-Current branch is 4.4.7
-https://www.zabbix.com/whats_new_4_7
-https://www.zabbix.com/documentation/4.4/manual/introduction/whatsnew444
+Current branch is 5.0.5
 
-https://www.zabbix.com/events/zabbix_summit_2019
+Upgrade to 5.2.1 is at this moment freezing. Investigating....
+
+https://www.zabbix.com/whats_new_5_0
+https://www.zabbix.com/documentation/5.0/manual/introduction/whatsnew444
+
+https://www.zabbix.com/events/zabbix_summit_2020
 
 Live from Zabbix 
 https://www.youtube.com/user/ZabbixSIA
