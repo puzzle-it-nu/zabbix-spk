@@ -7,7 +7,7 @@ Package is build to run only one Zabbix Server OR one Zabbix Proxy, but not Zabb
 
 Please ask in case your package is not available.
 
-Current branch is 5.0.5
+Current branch is 5.0.8
 
 Upgrade to 5.2.1 is at this moment freezing. Investigating....
 
