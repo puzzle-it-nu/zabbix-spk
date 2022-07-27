@@ -2,6 +2,11 @@
 
 Zabbix Synology spk for differents models. Please have a look on different branchs for latest Zabbix version
 
+# -----------------------------
+For DSM 7.0 MUST BE INSTALLED TWICE TO CREATE APPROPRIATE INSTALLAION SINCE SECURITY PB 
+# -----------------------------
+
+
 It consists of Zabbix server, Zabbix Proxy and Zabbix agent and uses the Synology supplied mysql/mariadb datbase server. 
 Package is build to run only one Zabbix Server OR one Zabbix Proxy, but not Zabbix Server and proxy on the same time.
 
