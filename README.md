@@ -12,7 +12,13 @@ Package is build to run only one Zabbix Server OR one Zabbix Proxy, but not Zabb
 
 Please ask in case your package is not available.
 
-This branch is 6.4.1
+This branch is 6.4.1. Under construction. 
+I'm currently working on 6.4.1 packages.
+But from now, I have some troubles with web scenarios in this new version.
+Some protocols are not working without reasons since I've just changed the zabbix version and not the dependencies as lib curl. A need to open a case in Zabbix SIA for that.
+So for this reason, I can't deliver the new 6.4.1 version until this resolution.
+Big Hugs
+Camille
 
 
 https://www.zabbix.com/whats_new_6_4
