@@ -15,7 +15,6 @@ Please ask in case your package is not available.
 This branch is 6.4.1
 
 
-
 https://www.zabbix.com/whats_new_6_4
 https://www.zabbix.com/documentation/6.4
 
