@@ -12,12 +12,12 @@ Package is build to run only one Zabbix Server OR one Zabbix Proxy, but not Zabb
 
 Please ask in case your package is not available.
 
-This branch is 6.2.1
+This branch is 6.4.1
 
 
 
-https://www.zabbix.com/whats_new_6_2
-https://www.zabbix.com/documentation/6.2
+https://www.zabbix.com/whats_new_6_4
+https://www.zabbix.com/documentation/6.4
 
 
 
