@@ -8,7 +8,7 @@ For DSM 7.0 MUST BE INSTALLED TWICE TO CREATE APPROPRIATE INSTALLAION SINCE SECU
 
 On DSM7.0, must apply manually as root after installation to have icmping items working
 		
-		#> chown root:synocommunity /var/packages/zabbix/target/sbin/fping<br>
+		#> chown root:synocommunity /var/packages/zabbix/target/sbin/fping
 		#> chmod 4710 /var/packages/zabbix/target/sbin/fping
 
 Since Zabbix 6.2.8, ZBX-22588, only HTTP, HTTPS protocols are supported in web scenarios. This package includes FTP and RSTP protocols support
