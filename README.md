@@ -19,13 +19,6 @@ Package is build to run only one Zabbix Server OR one Zabbix Proxy, but not Zabb
 
 Please ask in case your package is not available.
 
-This branch is 6.4.1. Under construction. 
-I'm currently working on 6.4.1 packages.
-But from now, I have some troubles with web scenarios in this new version.
-
-I had the answer from zabbix. Problem was appearing since 6.2.8. ZBXNEXT-9015 was created.
-I discovered where to add other protocols in 6.4.x. So I could restart to provide new updates.
-
 
 Big Hugs
 Camille
